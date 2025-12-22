@@ -41,9 +41,7 @@ The cryptography library
 ⚙️ Installation
 Clone the repository:
 
-bash
-git clone https://github.com/your-username/Secure-Chat-App.git
-cd Secure-Chat-App
+
 Install the required library:
 Open your terminal or command prompt and run the following command to install cryptography:
 
